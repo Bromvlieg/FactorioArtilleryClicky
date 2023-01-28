@@ -13,7 +13,7 @@ If something messes up and it starts missing, press `ctrl` and it will abort wha
 ## Examples
 
 Newer version
-![](docs/vid.mp4)
+https://user-images.githubusercontent.com/1164341/215282663-cd004fe4-bbb1-43dd-8b41-ad0acec12458.mp4
 
 Older version
 ![](docs/pic.png)
