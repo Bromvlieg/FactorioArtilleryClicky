@@ -74,7 +74,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(179, 23);
             this.button2.TabIndex = 2;
-            this.button2.Text = "Kill the basterds";
+            this.button2.Text = "Kill the bastards";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
